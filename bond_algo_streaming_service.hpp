@@ -1,0 +1,8 @@
+#ifndef BOND_ALGO_STREAMING_SERVICE_HPP
+#define BOND_ALGO_STREAMING_SERVICE_HPP
+
+
+
+
+#endif
+
